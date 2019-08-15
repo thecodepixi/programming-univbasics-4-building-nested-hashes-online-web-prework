@@ -25,7 +25,7 @@ def monopoly_with_third_tier
       two: 1,
       three: 2,
       four: 3
-      }
+      },
     names: "name"  
     }
   }
